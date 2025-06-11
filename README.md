@@ -10,14 +10,14 @@
 ## 使用方法
 
 ### COSMOS数据集准备
-下载COSMOS数据集并放入`./res`文件夹下，数据集详细信息可参考文献：
+申请并下载[COSMOS数据集](https://github.com/detecting-cheapfakes/detecting-cheapfakes-code)，放入`./res`文件夹下，数据集详细信息可参考文献：
 
 ```
 Aneja S, Bregler C, Nießner M. Cosmos: Catching out-of-context misinformation with self-supervised learning[J]. arXiv preprint arXiv:2101.06278, 2021.
 ```
 
 ### BLIP-2预训练模型准备
-下载BLIP-2预训练模型并放入`./res/Salesforce/`文件夹下，模型版本为`blip2-flan-t5-xl`，详细信息可参考文献：
+下载[BLIP-2](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)预训练模型并放入`./res/Salesforce/`文件夹下，模型版本为`blip2-flan-t5-xl`，详细信息可参考文献：
 
 ```
 Li J, Li D, Savarese S, et al. Blip-2: Bootstrapping language-image pre-training with frozen image encoders and large language models[C]//International conference on machine learning. PMLR, 2023: 19730-19742.
